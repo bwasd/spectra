@@ -9,6 +9,6 @@ Walker, is in the public domain.
 
 (CIE 1986). Commission Internationale de l'Éclairage (CIE). Standard on Colorimetric Observers, CIE S002, 1986.
 
-(Hunt 1987). R.W.G. Hunt. [Measuring Colour](http://www.amazon.com/dp/0863433871/?tag=fourmilabwwwfour). Ellis Horwood Limited, 1987.
+(Hunt 1987). R.W.G. Hunt. [Measuring Colour](http://www.amazon.com/dp/0863433871/). Ellis Horwood Limited, 1987.
 
-(Martindale and Paeth 1991). David Martindale and Alan W. Paeth. Television Color Encoding and “Hot” Broadcast Colors. In James Arvo, editor, [Graphics Gems II](http://www.amazon.com/dp/0120644819/?tag=fourmilabwwwfour), pages 147–158. Academic Press, Boston, 1991.
+(Martindale and Paeth 1991). David Martindale and Alan W. Paeth. Television Color Encoding and “Hot” Broadcast Colors. In James Arvo, editor, [Graphics Gems II](http://www.amazon.com/dp/0120644819/), pages 147–158. Academic Press, Boston, 1991.
